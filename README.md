@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Coloque seu LinkedIn aqui -->
-  <a href=https://www.linkedin.com/in/gustavo-campos-b129b8252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-campos-b129b8252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,11 +27,13 @@
 ### Back-end e Banco de Dados:
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
 ---
 
-## Um pouco mais sobre mim
+## ✨ Um pouco mais sobre mim
 
 - Estou sempre em busca de evoluir como profissional e como pessoa.
 
